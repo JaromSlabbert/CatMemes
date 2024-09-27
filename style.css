@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+img{
+    height: 300px;
+    width: 460px;
+    margin-top: 50px;
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
